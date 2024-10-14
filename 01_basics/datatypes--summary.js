@@ -16,3 +16,7 @@
  * Functions
  */
 
+/**
+ * memory two type ---> 1. stack(primitive) 2. Heap(Non-Premitive)
+ * 
+ */
